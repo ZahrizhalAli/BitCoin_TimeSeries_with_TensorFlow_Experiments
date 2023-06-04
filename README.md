@@ -7,11 +7,11 @@ This project aims to predict future prices of Bitcoin using time series analysis
 Tech Used: Python, Pandas, Matplotlib, TensorFlow, Scikit-Learn, Data Analysis and Visualization.
 The Bitcoin Prediction Time Series project leverages the following libraries and resources:
 
-[Pandas](https://pandas.pydata.org/) for data manipulation and analysis.
-[Scikit-learn](https://scikit-learn.org/stable/) for machine learning algorithms.
-[Matplotlib](https://matplotlib.org/) for data visualization.
-[NumPy](https://numpy.org/) for numerical operations.
-[TensorFlow](https://www.tensorflow.org/) for deep learning models/algorithms implementation.
+* [Pandas](https://pandas.pydata.org/) for data manipulation and analysis.
+* [Scikit-learn](https://scikit-learn.org/stable/) for machine learning algorithms.
+* [Matplotlib](https://matplotlib.org/) for data visualization.
+* [NumPy](https://numpy.org/) for numerical operations.
+* [TensorFlow](https://www.tensorflow.org/) for deep learning models/algorithms implementation.
 
 ## Features
 * Working with time series data (historical price of Bitcoin)
