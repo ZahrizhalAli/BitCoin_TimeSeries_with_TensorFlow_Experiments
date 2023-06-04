@@ -5,6 +5,13 @@ Made by : Zahrizhal Ali
 This project aims to predict future prices of Bitcoin using time series analysis. The Bitcoin Prediction Time Series project utilizes historical Bitcoin price data and employs various machine learning techniques to forecast the future price movements of Bitcoin. This documentation provides a comprehensive guide to the project, including its features, installation instructions, usage, and data sources. 
 
 Tech Used: Python, Pandas, Matplotlib, TensorFlow, Scikit-Learn, Data Analysis and Visualization.
+The Bitcoin Prediction Time Series project leverages the following libraries and resources:
+
+[Pandas](https://pandas.pydata.org/) for data manipulation and analysis.
+[Scikit-learn](https://scikit-learn.org/stable/) for machine learning algorithms.
+[Matplotlib](https://matplotlib.org/) for data visualization.
+[NumPy](https://numpy.org/) for numerical operations.
+[TensorFlow](https://www.tensorflow.org/) for deep learning models/algorithms implementation.
 
 ## Features
 * Working with time series data (historical price of Bitcoin)
@@ -37,4 +44,7 @@ This dataset is collected from 01 October 2013 to 18 of May 2021 using Coindesk 
 ![image](https://github.com/ZahrizhalAli/BitCoin_TimeSeries_with_TensorFlow_Experiments/assets/58893316/722b5941-fee5-4f51-8d66-0e2af614bc94)
 
 From plotted functoin that Returns array of datetime values ranging from start_date to start_date + into_future
+
+The Bitcoin Prediction Time Series project provides a comprehensive framework for predicting Bitcoin prices based on historical data. By utilizing deep learning algorithms and time series analysis, this project empowers users to explore and forecast future price movements. With its intuitive features and customizable nature, it offers a valuable tool for analysis in this field.
+
 
