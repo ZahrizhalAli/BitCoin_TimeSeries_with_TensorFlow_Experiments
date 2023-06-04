@@ -20,6 +20,7 @@ A better option is to write all the code yourself using Google Colab to get the 
 
 
 ## Dataset
+The Bitcoin Prediction Time Series project requires historical Bitcoin price data. You can obtain such data from various sources, such as cryptocurrency exchanges or online financial platforms. Ensure the data is in CSV format and contains the necessary information (e.g., date and closing price).
 This dataset is collected from 01 October 2013 to 18 of May 2021 using Coindesk dataset sources. You can find alternative link to the dataset used [here](https://raw.githubusercontent.com/mrdbourke/tensorflow-deep-learning/main/extras/BTC_USD_2013-10-01_2021-05-18-CoinDesk.csv).
 
 ## Keypoint Experiments
